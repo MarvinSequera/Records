@@ -1,7 +1,7 @@
 
 const resolvers = {
     Query: {
-        getAllDiscs() {
+        getAllRecords() {
             return 'hola'
         }
     },

@@ -47,6 +47,10 @@ const typeDefs = gql`
     }
 
     #Queries
+
+    type Query {
+        getAllRecords: [Records]
+    }
     
     #Mutations
 `

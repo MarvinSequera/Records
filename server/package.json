@@ -2,10 +2,10 @@
   "name": "recordcollection",
   "version": "1.0.0",
   "description": "",
-  "main": "server.ts",
+  "main": "src/server.ts",
   "scripts": {
-    "dev": "nodemon server.ts",
-    "server": "server.ts"
+    "dev": "nodemon src/server.ts",
+    "server": "/srcserver.ts"
   },
   "author": "Marvin Sequera",
   "license": "ISC",

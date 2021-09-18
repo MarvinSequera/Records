@@ -5,7 +5,7 @@
   "main": "src/server.ts",
   "scripts": {
     "dev": "nodemon src/server.ts",
-    "server": "/srcserver.ts"
+    "server": "src/server.ts"
   },
   "author": "Marvin Sequera",
   "license": "ISC",
